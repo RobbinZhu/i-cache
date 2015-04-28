@@ -63,7 +63,7 @@ iCache.reset();
 iCache.reset();
 iCache.set('hi', 1);
 iCache.set('hello', 1);
-iCache.keys();//['hi','hello']
+iCache.keys;//["hi", "hello"]
 ```
 
 **iCache.stats** .
