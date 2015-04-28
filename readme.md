@@ -1,4 +1,4 @@
-# i-canvas
+# i-cache
 
 The simplest in-memory cache which store and get objects as pure json structure
 Maybe your replacement when u don't have memcached.
